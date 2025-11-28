@@ -30,6 +30,8 @@ This repository contains no code — only curated links with context.
 https://github.com/rug-lizi/fCC_Python_tutorial  
 https://github.com/rug-lizi/PyGames
 
+---
+
 ## 🎶 Literature, Music and Funhouse  
 - **shits that flows everywhere, free and various**  
   https://github.com/rug-lizi/shits
