@@ -8,18 +8,6 @@ This repository contains no code — only curated links with context.
 ## 🤖 AI & Agents
 - **Personal Moments Gallery**  
   https://github.com/rug-lizi/PersonalMomentsGallery
-- **Creative Video Journal (Sparks)**  
-  https://github.com/<your-username>/sparks-creative-video-journal
-- **Coding Agent Playground**  
-  https://github.com/<your-username>/code-agents-lab
-
----
-
-## 🛠 Infrastructure & DevOps
-- **Docker + Node.js + React Template**  
-  https://github.com/<your-username>/docker-react-template
-- **GCP Deployment Starter**  
-  https://github.com/<your-username>/gcp-deploy-template
 
 ---
 
