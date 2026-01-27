@@ -37,6 +37,13 @@ https://github.com/rug-lizi/PyGames
   https://github.com/rug-lizi/shits
   
 ---
+
+## 🏊 Exercise centered around swimming
+- **swim and some workouts**
+  https://github.com/rug-lizi/Swim-and-some-workout
+  
+  
+---
 ## 🎯 Personal Statement
 This page is the master index of my technical，learning and teaching work.  
 It helps me:
