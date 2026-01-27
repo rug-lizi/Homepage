@@ -39,7 +39,7 @@ https://github.com/rug-lizi/PyGames
 ---
 
 ## 🏊 Exercise centered around swimming
-- **swim and some workouts**
+- **swim and some workouts**  
   https://github.com/rug-lizi/Swim-and-some-workout
   
   
