@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+  <title id="title">Code Cabin — rug-lizi</title>
+  <desc id="desc">A navy blue banner with a small cabin and six connected project markers.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#142439"/><stop offset="1" stop-color="#234c5b"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#d0e5e8" opacity=".10"/></pattern>
+  </defs>
+  <rect width="1200" height="240" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="240" rx="18" fill="url(#grid)"/>
+  <rect x="52" y="58" width="5" height="122" rx="2.5" fill="#e5bd73"/>
+  <text x="80" y="88" fill="#bbd4db" font-family="Segoe UI, Arial, sans-serif" font-size="18" letter-spacing="5">RUG-LIZI / PROJECT INDEX</text>
+  <text x="76" y="151" fill="#f6f8fa" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="650">Code Cabin</text>
+  <text x="80" y="191" fill="#d2e3e7" font-family="Segoe UI, Arial, sans-serif" font-size="19" letter-spacing="3">WORK · BUILD · LEARN · LIVE</text>
+  <g fill="none" stroke="#9fbfc8" stroke-width="2" opacity=".45">
+    <path d="M890 120 764 66 M890 120 1063 53 M890 120 1108 125 M890 120 1043 198 M890 120 766 194 M890 120 689 126"/>
+  </g>
+  <g fill="#8ebbc6"><circle cx="764" cy="66" r="9"/><circle cx="1063" cy="53" r="9"/><circle cx="1108" cy="125" r="9"/><circle cx="766" cy="194" r="9"/></g>
+  <g fill="#e5bd73"><circle cx="1043" cy="198" r="9"/><circle cx="689" cy="126" r="9"/></g>
+  <circle cx="890" cy="120" r="65" fill="#142f40" stroke="#749da9" stroke-width="2"/>
+  <g fill="none" stroke="#f2e9d4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m849 113 41-34 41 34 M859 108v49h62v-49 M881 157v-28h18v28 M905 91V77h12v24"/>
+  </g>
+  <circle cx="1136" cy="199" r="3" fill="#c8dee3"/>
+  <circle cx="663" cy="61" r="3" fill="#c8dee3"/>
+</svg>
