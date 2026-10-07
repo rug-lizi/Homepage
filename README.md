@@ -2,7 +2,7 @@
 
 我的 GitHub 总入口，收录工作材料、个人应用、AI 实验、学习项目与生活记录。按用途找到项目，再进入对应仓库查看代码、文档和当前进展。
 
-**24 个仓库 · 23 个项目 + 本索引 · 4 个公开 / 20 个私有**
+**24 个仓库 · 23 个项目 + 本索引 · 3 个公开 / 21 个私有**
 
 最近核对：2026-10-08
 
@@ -51,7 +51,7 @@
 
 | 仓库 | 用途 | 访问 |
 | --- | --- | --- |
-| [digital-products-store](https://github.com/rug-lizi/digital-products-store) | 数字产品独立商店，包含 Stripe 支付、订单管理与自动下载交付。 | 公开 |
+| [digital-products-store](https://github.com/rug-lizi/digital-products-store) | 数字产品独立商店，包含 Stripe 支付、订单管理与自动下载交付。 | 私有 |
 | [node-docker-app](https://github.com/rug-lizi/node-docker-app) | 初次使用 Node.js 与 Docker 开发、部署应用的练习项目。 | 私有 |
 
 <a id="research"></a>
