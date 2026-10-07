@@ -19,7 +19,7 @@
 </tr>
 <tr>
 <td width="50%"><a href="#apps">🛠️ 开发实验</a> · 2</td>
-<td width="50%"><a href="#research">🔭 数据与服务</a> · 2</td>
+<td width="50%"><a href="#research">🔭 数据服务</a> · 2</td>
 </tr>
 <tr>
 <td width="50%"><a href="#life">🌿 生活记录</a> · 5</td>
