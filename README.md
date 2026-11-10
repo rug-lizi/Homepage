@@ -22,11 +22,8 @@
 <td width="50%"><a href="#research">🔭 数据服务</a> · 2</td>
 </tr>
 <tr>
-<td width="50%"><a href="#life">🌿 生活记录</a> · 5</td>
-<td width="50%"><a href="#learning">📚 学习练习</a> · 6</td>
-</tr>
-<tr>
-<td colspan="2"><a href="#planned">🗃️ 预留待补充</a> · 2</td>
+<td width="50%"><a href="#life">🌿 生活记录</a> · 6</td>
+<td width="50%"><a href="#learning">📚 学习练习</a> · 7</td>
 </tr>
 </table>
 
@@ -56,22 +53,21 @@
 <tr><th colspan="3" align="left"><a id="research"></a>🔭 服务器工具与数据研究 · 2 个项目</th></tr>
 <tr><td><a href="https://github.com/rug-lizi/vpn-manager">个人 VPN 管理器</a></td><td>设备接入、独立订阅、启停管理与流量统计。</td><td align="center">私&#8288;有</td></tr>
 <tr><td><a href="https://github.com/rug-lizi/polymarket-observatory">预测市场观察站</a></td><td>公开市场数据与价格偏离研究；已于 2026-10-29 结项，采集和定时报告已下线，保留结项报告与归档代码。</td><td align="center">私&#8288;有</td></tr>
-<tr><th colspan="3" align="left"><a id="life"></a>🌿 生活与个人记录 · 5 个项目</th></tr>
+<tr><th colspan="3" align="left"><a id="life"></a>🌿 生活与个人记录 · 6 个项目</th></tr>
+<tr><td><a href="https://github.com/rug-lizi/shuren-luxun">树人 · 鲁迅阅读</a></td><td>鲁迅作品阅读站，提供原文、专题、阅读路径、全文搜索与保存在当前浏览器的收藏和笔记；当前为 v0.1 初版。</td><td align="center">私&#8288;有</td></tr>
 <tr><td><a href="https://github.com/rug-lizi/Personal-Moments-Gallery">个人时刻相册</a></td><td>个人时刻与相册项目。</td><td align="center">私&#8288;有</td></tr>
 <tr><td><a href="https://github.com/rug-lizi/sparks---creative-video-journal">Sparks 视频日记</a></td><td>创意视频与日记项目。</td><td align="center">私&#8288;有</td></tr>
 <tr><td><a href="https://github.com/rug-lizi/medical.liyw.top">主动健康管理</a></td><td>个人健康、饮食、运动与生活方式的长期记录、整理和复盘；原 health-medicine-diet。</td><td align="center">私&#8288;有</td></tr>
 <tr><td><a href="https://github.com/rug-lizi/Swim-and-some-workout">游泳与锻炼</a></td><td>围绕游泳与锻炼的个人记录和自我管理。</td><td align="center">私&#8288;有</td></tr>
 <tr><td><a href="https://github.com/rug-lizi/shits">Shits 随笔与文字</a></td><td>随笔、文字与自由记录。</td><td align="center">公&#8288;开</td></tr>
-<tr><th colspan="3" align="left"><a id="learning"></a>📚 学习与编程练习 · 6 个项目</th></tr>
+<tr><th colspan="3" align="left"><a id="learning"></a>📚 学习与编程练习 · 7 个项目</th></tr>
+<tr><td><a href="https://github.com/rug-lizi/algorithm-online">算法实验室</a></td><td>围绕《算法导论》第三版的个人学习实验系统，提供 Python 算法、可编辑 Notebook 与交互排序工作台。</td><td align="center">私&#8288;有</td></tr>
 <tr><td><a href="https://github.com/rug-lizi/nightsky-electro">夜电 · 电子实训</a></td><td>面向电子技术自学者的电路实训游戏，支持浏览器与 Android，结合电路实验和天体档案。</td><td align="center">私&#8288;有</td></tr>
-<tr><td><a href="https://github.com/rug-lizi/math-model-online">数理工坊</a></td><td>基于 Django 与 Jupyter 的在线数学建模学习平台，提供原创 Notebook、参数实验与个人实验册。</td><td align="center">私&#8288;有</td></tr>
+<tr><td><a href="https://github.com/rug-lizi/math-model-online">数理工坊</a></td><td>基于 Django 与 Jupyter 的在线数学建模学习平台，提供 60 个原创 Notebook、参数实验与个人实验册。</td><td align="center">私&#8288;有</td></tr>
 <tr><td><a href="https://github.com/rug-lizi/d2l">动手学深度学习</a></td><td>Dive into Deep Learning 的学习与代码练习。</td><td align="center">私&#8288;有</td></tr>
 <tr><td><a href="https://github.com/rug-lizi/d2l_env">深度学习环境</a></td><td>动手学深度学习的环境配置仓库。</td><td align="center">私&#8288;有</td></tr>
 <tr><td><a href="https://github.com/rug-lizi/fCC_Python_tutorial">Python 教程练习</a></td><td>Python 教程练习。</td><td align="center">私&#8288;有</td></tr>
 <tr><td><a href="https://github.com/rug-lizi/PyGames">PyGames 游戏练习</a></td><td>Python 游戏与其他游戏练习。</td><td align="center">私&#8288;有</td></tr>
-<tr><th colspan="3" align="left"><a id="planned"></a>🗃️ 预留与待补充 · 2 个项目</th></tr>
-<tr><td><a href="https://github.com/rug-lizi/algorithm-online">algorithm-online</a></td><td>预留仓库，目前无项目文件，说明待补充。</td><td align="center">私&#8288;有</td></tr>
-<tr><td><a href="https://github.com/rug-lizi/shuren-luxun">shuren-luxun</a></td><td>预留仓库，目前为空，项目说明待补充。</td><td align="center">私&#8288;有</td></tr>
 </tbody>
 </table>
 
