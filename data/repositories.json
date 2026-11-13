@@ -266,7 +266,7 @@
     {
       "name": "job",
       "display_name": "就业合作工作台",
-      "summary": "对应 job.liyw.top 的新建仓库，站点源码待归档。",
+      "summary": "企业随访与就业合作台账，含 Python 后端、前端及脱敏部署模板。",
       "category": "教学与专业建设",
       "category_id": "teaching",
       "private": true,
@@ -275,7 +275,7 @@
     {
       "name": "city297",
       "display_name": "中国城市五年轨迹",
-      "summary": "对应 city297.liyw.top 的新建仓库，站点源码待归档。",
+      "summary": "297 座城市的五年经济轨迹，含原始模板、公开统计数据与可重建脚本。",
       "category": "服务器工具与数据研究",
       "category_id": "research",
       "private": true,

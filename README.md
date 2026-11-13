@@ -19,8 +19,8 @@
 | [数理工坊](https://math.liyw.top) | 通过 60 个原创 Notebook 与参数实验学习数学建模。 | 约 2026-11-11 上线 | [仓库](https://github.com/rug-lizi/math-model-online) |
 | [夜电 · 林间观测所](https://nightsky-electro.liyw.top) | 在电路实训中学习电子技术，探索天体与观测档案。 | 约 2026-11-11 上线 | [仓库](https://github.com/rug-lizi/nightsky-electro) |
 | [家庭健康档案](https://medical.liyw.top) | 整理家庭成员的健康记录、病历原件与识别核对。 | 约 2026-10-22 上线 | [仓库](https://github.com/rug-lizi/medical.liyw.top) |
-| [中国城市五年轨迹](https://city297.liyw.top) | 探索 297 座城市在 2021—2025 年的经济规模与人均产出。 | 约 2026-09-25 上线 | [仓库（源码待归档）](https://github.com/rug-lizi/city297) |
-| [就业合作工作台](https://job.liyw.top) | 记录智能医疗装备专业的企业随访与就业合作进展。 | 约 2026-09-14 上线 | [仓库（源码待归档）](https://github.com/rug-lizi/job) |
+| [中国城市五年轨迹](https://city297.liyw.top) | 探索 297 座城市在 2021—2025 年的经济规模与人均产出。 | 约 2026-09-25 上线 | [仓库](https://github.com/rug-lizi/city297) |
+| [就业合作工作台](https://job.liyw.top) | 记录智能医疗装备专业的企业随访与就业合作进展。 | 约 2026-09-14 上线 | [仓库](https://github.com/rug-lizi/job) |
 | [VPN Manager](https://vpn.liyw.top) | 管理 VPN 设备接入、订阅、启停与流量统计。 | 约 2026-09-09 上线 | [仓库](https://github.com/rug-lizi/vpn-manager) |
 | [Polymarket 研究档案](https://poly.liyw.top) | 保留预测市场研究的实验结果与结项报告，项目已停服。 | 约 2026-09-05 上线 | [仓库](https://github.com/rug-lizi/polymarket-observatory) |
 | [Adam Li Digital](https://shop.liyw.top) | 销售提示词、自动化脚本与实用 AI 指南等数字产品。 | 2026-07-28 上线 | [仓库](https://github.com/rug-lizi/digital-products-store) |
@@ -42,7 +42,7 @@
 | [订单班合作案例](https://github.com/rug-lizi/medical-equipment-management-cohort-case-study) | 校企合作、人才培养与专业转型的案例材料。 | 私有 |
 | [LYPT 演示模板](https://github.com/rug-lizi/lypt-beamer-ppt-latex) | 洛阳职业技术学院风格的个人改编 LaTeX 汇报模板。 | 私有 |
 | [企业合作平台](https://github.com/rug-lizi/corporation-collaboration-miner) | 企业随访与合作线索挖掘的预留仓库，目前为空。 | 私有 |
-| [就业合作工作台](https://github.com/rug-lizi/job) | 对应 job.liyw.top 的新建仓库，站点源码待归档。 | 私有 |
+| [就业合作工作台](https://github.com/rug-lizi/job) | 企业随访与就业合作台账，含 Python 后端、前端及脱敏部署模板。 | 私有 |
 
 ### AI 与效率工具
 
@@ -68,7 +68,7 @@
 | --- | --- | --- |
 | [个人 VPN 管理器](https://github.com/rug-lizi/vpn-manager) | 设备接入、独立订阅、启停管理与流量统计。 | 私有 |
 | [预测市场观察站](https://github.com/rug-lizi/polymarket-observatory) | 公开市场数据与价格偏离研究；已于 2026-10-29 结项，采集和定时报告已下线，保留结项报告与归档代码。 | 私有 |
-| [中国城市五年轨迹](https://github.com/rug-lizi/city297) | 对应 city297.liyw.top 的新建仓库，站点源码待归档。 | 私有 |
+| [中国城市五年轨迹](https://github.com/rug-lizi/city297) | 297 座城市的五年经济轨迹，含原始模板、公开统计数据与可重建脚本。 | 私有 |
 
 ### 生活与个人记录
 

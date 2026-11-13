@@ -71,7 +71,7 @@
       "repository": "city297",
       "status": "active",
       "listed": true,
-      "source_status": "repository_only"
+      "source_status": "available"
     },
     {
       "id": "job",
@@ -84,7 +84,7 @@
       "repository": "job",
       "status": "active",
       "listed": true,
-      "source_status": "repository_only"
+      "source_status": "available"
     },
     {
       "id": "vpn",
