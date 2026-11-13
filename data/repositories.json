@@ -1,0 +1,285 @@
+{
+  "owner": "rug-lizi",
+  "synced_at": "2026-11-13",
+  "repositories": [
+    {
+      "name": "2026-IMET-Talent-Cultivation-Program",
+      "display_name": "2026 人才培养方案",
+      "summary": "智能医疗装备技术专业人才培养方案、参考材料与配套数据。",
+      "category": "教学与专业建设",
+      "category_id": "teaching",
+      "private": true,
+      "archived": false
+    },
+    {
+      "name": "2026-IMET-Curriculum-Standards",
+      "display_name": "2026 课程标准",
+      "summary": "智能医疗装备技术专业课程标准、教材选用与自动化设计。",
+      "category": "教学与专业建设",
+      "category_id": "teaching",
+      "private": true,
+      "archived": false
+    },
+    {
+      "name": "medical-equipment-management-cohort-case-study",
+      "display_name": "订单班合作案例",
+      "summary": "校企合作、人才培养与专业转型的案例材料。",
+      "category": "教学与专业建设",
+      "category_id": "teaching",
+      "private": true,
+      "archived": false
+    },
+    {
+      "name": "lypt-beamer-ppt-latex",
+      "display_name": "LYPT 演示模板",
+      "summary": "洛阳职业技术学院风格的个人改编 LaTeX 汇报模板。",
+      "category": "教学与专业建设",
+      "category_id": "teaching",
+      "private": true,
+      "archived": false
+    },
+    {
+      "name": "corporation-collaboration-miner",
+      "display_name": "企业合作平台",
+      "summary": "企业随访与合作线索挖掘的预留仓库，目前为空。",
+      "category": "教学与专业建设",
+      "category_id": "teaching",
+      "private": true,
+      "archived": false
+    },
+    {
+      "name": "VoiNoter",
+      "display_name": "VoiNoter 会议记录",
+      "summary": "Android 录音、语音转写、说话人区分与会议纪要。",
+      "category": "AI 与效率工具",
+      "category_id": "ai-tools",
+      "private": true,
+      "archived": false
+    },
+    {
+      "name": "AI-Hardware-Model6",
+      "display_name": "Model 6 硬件展柜",
+      "summary": "保留 6 个硬件想法，持续比较、替换与归档。",
+      "category": "AI 与效率工具",
+      "category_id": "ai-tools",
+      "private": true,
+      "archived": false
+    },
+    {
+      "name": "skill-commons",
+      "display_name": "百工馆 · Skills",
+      "summary": "Skills 的制作、分类、维护与复用。",
+      "category": "AI 与效率工具",
+      "category_id": "ai-tools",
+      "private": true,
+      "archived": false
+    },
+    {
+      "name": "wps-cloud-organizer",
+      "display_name": "WPS 云盘整理",
+      "summary": "WPS 云盘整理插件。",
+      "category": "AI 与效率工具",
+      "category_id": "ai-tools",
+      "private": false,
+      "archived": false
+    },
+    {
+      "name": "AI-code-shack",
+      "display_name": "AI 代码小屋",
+      "summary": "使用 Codex、Google AI Studio 等工具制作应用的实验小屋。",
+      "category": "AI 与效率工具",
+      "category_id": "ai-tools",
+      "private": true,
+      "archived": false
+    },
+    {
+      "name": "Universal-Medical-Interface-Tester",
+      "display_name": "UMIT 医疗接口测试台",
+      "summary": "模块式医疗接口诊断、数据采集与维修留证台架；当前处于工程首件资料与软件验证阶段。",
+      "category": "应用与开发实验",
+      "category_id": "apps",
+      "private": true,
+      "archived": false
+    },
+    {
+      "name": "digital-products-store",
+      "display_name": "数字产品商店",
+      "summary": "Stripe 支付、订单管理与自动下载交付。",
+      "category": "应用与开发实验",
+      "category_id": "apps",
+      "private": true,
+      "archived": false
+    },
+    {
+      "name": "node-docker-app",
+      "display_name": "Node / Docker 入门",
+      "summary": "Node.js 与 Docker 应用开发、部署练习。",
+      "category": "应用与开发实验",
+      "category_id": "apps",
+      "private": true,
+      "archived": false
+    },
+    {
+      "name": "vpn-manager",
+      "display_name": "个人 VPN 管理器",
+      "summary": "设备接入、独立订阅、启停管理与流量统计。",
+      "category": "服务器工具与数据研究",
+      "category_id": "research",
+      "private": true,
+      "archived": false
+    },
+    {
+      "name": "polymarket-observatory",
+      "display_name": "预测市场观察站",
+      "summary": "公开市场数据与价格偏离研究；已于 2026-10-29 结项，采集和定时报告已下线，保留结项报告与归档代码。",
+      "category": "服务器工具与数据研究",
+      "category_id": "research",
+      "private": true,
+      "archived": false
+    },
+    {
+      "name": "shuren-luxun",
+      "display_name": "树人 · 鲁迅阅读",
+      "summary": "鲁迅作品阅读站，提供原文、专题、阅读路径、全文搜索与保存在当前浏览器的收藏和笔记；当前为 v0.1 初版。",
+      "category": "生活与个人记录",
+      "category_id": "life",
+      "private": true,
+      "archived": false
+    },
+    {
+      "name": "Personal-Moments-Gallery",
+      "display_name": "个人时刻相册",
+      "summary": "个人时刻与相册项目。",
+      "category": "生活与个人记录",
+      "category_id": "life",
+      "private": true,
+      "archived": false
+    },
+    {
+      "name": "sparks---creative-video-journal",
+      "display_name": "Sparks 视频日记",
+      "summary": "创意视频与日记项目。",
+      "category": "生活与个人记录",
+      "category_id": "life",
+      "private": true,
+      "archived": false
+    },
+    {
+      "name": "medical.liyw.top",
+      "display_name": "主动健康管理",
+      "summary": "个人健康、饮食、运动与生活方式的长期记录、整理和复盘；原 health-medicine-diet。",
+      "category": "生活与个人记录",
+      "category_id": "life",
+      "private": true,
+      "archived": false
+    },
+    {
+      "name": "Swim-and-some-workout",
+      "display_name": "游泳与锻炼",
+      "summary": "围绕游泳与锻炼的个人记录和自我管理。",
+      "category": "生活与个人记录",
+      "category_id": "life",
+      "private": true,
+      "archived": false
+    },
+    {
+      "name": "shits",
+      "display_name": "Shits 随笔与文字",
+      "summary": "随笔、文字与自由记录。",
+      "category": "生活与个人记录",
+      "category_id": "life",
+      "private": false,
+      "archived": false
+    },
+    {
+      "name": "algorithm-online",
+      "display_name": "算法实验室",
+      "summary": "围绕《算法导论》第三版的个人学习实验系统，提供 Python 算法、可编辑 Notebook 与交互排序工作台。",
+      "category": "学习与编程练习",
+      "category_id": "learning",
+      "private": true,
+      "archived": false
+    },
+    {
+      "name": "nightsky-electro",
+      "display_name": "夜电 · 电子实训",
+      "summary": "面向电子技术自学者的电路实训游戏，支持浏览器与 Android，结合电路实验和天体档案。",
+      "category": "学习与编程练习",
+      "category_id": "learning",
+      "private": true,
+      "archived": false
+    },
+    {
+      "name": "math-model-online",
+      "display_name": "数理工坊",
+      "summary": "基于 Django 与 Jupyter 的在线数学建模学习平台，提供 60 个原创 Notebook、参数实验与个人实验册。",
+      "category": "学习与编程练习",
+      "category_id": "learning",
+      "private": true,
+      "archived": false
+    },
+    {
+      "name": "d2l",
+      "display_name": "动手学深度学习",
+      "summary": "Dive into Deep Learning 的学习与代码练习。",
+      "category": "学习与编程练习",
+      "category_id": "learning",
+      "private": true,
+      "archived": false
+    },
+    {
+      "name": "d2l_env",
+      "display_name": "深度学习环境",
+      "summary": "动手学深度学习的环境配置仓库。",
+      "category": "学习与编程练习",
+      "category_id": "learning",
+      "private": true,
+      "archived": false
+    },
+    {
+      "name": "fCC_Python_tutorial",
+      "display_name": "Python 教程练习",
+      "summary": "Python 教程练习。",
+      "category": "学习与编程练习",
+      "category_id": "learning",
+      "private": true,
+      "archived": false
+    },
+    {
+      "name": "PyGames",
+      "display_name": "PyGames 游戏练习",
+      "summary": "Python 游戏与其他游戏练习。",
+      "category": "学习与编程练习",
+      "category_id": "learning",
+      "private": true,
+      "archived": false
+    },
+    {
+      "name": "Homepage",
+      "display_name": "Homepage",
+      "summary": "统一维护网站目录与全部 GitHub 仓库。",
+      "category": "项目入口",
+      "category_id": "index",
+      "private": false,
+      "archived": false
+    },
+    {
+      "name": "job",
+      "display_name": "就业合作工作台",
+      "summary": "对应 job.liyw.top 的新建仓库，站点源码待归档。",
+      "category": "教学与专业建设",
+      "category_id": "teaching",
+      "private": true,
+      "archived": false
+    },
+    {
+      "name": "city297",
+      "display_name": "中国城市五年轨迹",
+      "summary": "对应 city297.liyw.top 的新建仓库，站点源码待归档。",
+      "category": "服务器工具与数据研究",
+      "category_id": "research",
+      "private": true,
+      "archived": false
+    }
+  ]
+}

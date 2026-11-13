@@ -1,0 +1,162 @@
+{
+  "websites": [
+    {
+      "id": "shuren",
+      "name": "树人",
+      "url": "https://shuren.liyw.top",
+      "summary": "按作品、年谱与阅读路径阅读鲁迅，保存收藏和笔记。",
+      "launch_date": "2026-11-11",
+      "launch_estimated": true,
+      "launch_source": "阿里云 DNS 首次解析记录 2120222835611491328；没有首次成功部署记录，上线日期为估计",
+      "repository": "shuren-luxun",
+      "status": "active",
+      "listed": true
+    },
+    {
+      "id": "algo-lab",
+      "name": "算法实验室",
+      "url": "https://algo-lab.liyw.top",
+      "summary": "围绕《算法导论》运行 Python、Notebook 和交互算法实验。",
+      "launch_date": "2026-11-11",
+      "launch_estimated": true,
+      "launch_source": "阿里云 DNS 首次解析记录 2120216396801099776；没有首次成功部署记录，上线日期为估计",
+      "repository": "algorithm-online",
+      "status": "active",
+      "listed": true
+    },
+    {
+      "id": "math",
+      "name": "数理工坊",
+      "url": "https://math.liyw.top",
+      "summary": "通过 60 个原创 Notebook 与参数实验学习数学建模。",
+      "launch_date": "2026-11-11",
+      "launch_estimated": true,
+      "launch_source": "阿里云 DNS 首次解析记录 2120211369722328064；没有首次成功部署记录，上线日期为估计",
+      "repository": "math-model-online",
+      "status": "active",
+      "listed": true
+    },
+    {
+      "id": "nightsky-electro",
+      "name": "夜电 · 林间观测所",
+      "url": "https://nightsky-electro.liyw.top",
+      "summary": "在电路实训中学习电子技术，探索天体与观测档案。",
+      "launch_date": "2026-11-11",
+      "launch_estimated": true,
+      "launch_source": "阿里云 DNS 首次解析记录 2120195197677133824；没有首次成功部署记录，上线日期为估计",
+      "repository": "nightsky-electro",
+      "status": "active",
+      "listed": true
+    },
+    {
+      "id": "medical",
+      "name": "家庭健康档案",
+      "url": "https://medical.liyw.top",
+      "summary": "整理家庭成员的健康记录、病历原件与识别核对。",
+      "launch_date": "2026-10-22",
+      "launch_estimated": true,
+      "launch_source": "阿里云 DNS 首次解析记录 2112994360534415360；没有首次成功部署记录，上线日期为估计",
+      "repository": "medical.liyw.top",
+      "status": "active",
+      "listed": true
+    },
+    {
+      "id": "city297",
+      "name": "中国城市五年轨迹",
+      "url": "https://city297.liyw.top",
+      "summary": "探索 297 座城市在 2021—2025 年的经济规模与人均产出。",
+      "launch_date": "2026-09-25",
+      "launch_estimated": true,
+      "launch_source": "阿里云 DNS 首次解析记录 2103450127226033152；没有首次成功部署记录，上线日期为估计",
+      "repository": "city297",
+      "status": "active",
+      "listed": true,
+      "source_status": "repository_only"
+    },
+    {
+      "id": "job",
+      "name": "就业合作工作台",
+      "url": "https://job.liyw.top",
+      "summary": "记录智能医疗装备专业的企业随访与就业合作进展。",
+      "launch_date": "2026-09-14",
+      "launch_estimated": true,
+      "launch_source": "阿里云 DNS 首次解析记录 2099383596145698816；没有首次成功部署记录，上线日期为估计",
+      "repository": "job",
+      "status": "active",
+      "listed": true,
+      "source_status": "repository_only"
+    },
+    {
+      "id": "vpn",
+      "name": "VPN Manager",
+      "url": "https://vpn.liyw.top",
+      "summary": "管理 VPN 设备接入、订阅、启停与流量统计。",
+      "launch_date": "2026-09-09",
+      "launch_estimated": true,
+      "launch_source": "阿里云 DNS 首次解析记录 2097611023397491712；没有首次成功部署记录，上线日期为估计",
+      "repository": "vpn-manager",
+      "status": "active",
+      "listed": true
+    },
+    {
+      "id": "poly",
+      "name": "Polymarket 研究档案",
+      "url": "https://poly.liyw.top",
+      "summary": "保留预测市场研究的实验结果与结项报告，项目已停服。",
+      "launch_date": "2026-09-05",
+      "launch_estimated": true,
+      "launch_source": "阿里云 DNS 首次解析记录 2096219609140974592；没有首次成功部署记录，上线日期为估计",
+      "repository": "polymarket-observatory",
+      "status": "archived",
+      "listed": true
+    },
+    {
+      "id": "shop",
+      "name": "Adam Li Digital",
+      "url": "https://shop.liyw.top",
+      "summary": "销售提示词、自动化脚本与实用 AI 指南等数字产品。",
+      "launch_date": "2026-07-28",
+      "launch_estimated": false,
+      "launch_source": "Sites 首个成功发布记录 appgdep_6a683b7030c48191bf8a6cad52f891f1",
+      "repository": "digital-products-store",
+      "status": "active",
+      "listed": true
+    },
+    {
+      "id": "moments",
+      "name": "每年此日",
+      "url": "https://liyw.top",
+      "summary": "从 2020 年开始，每年在同一天留下一张照片。",
+      "launch_date": "2026-07-27",
+      "launch_estimated": false,
+      "launch_source": "Sites 首个成功发布记录 appgdep_6a66f744ff688191b7e11a38d41e7495",
+      "repository": "Personal-Moments-Gallery",
+      "status": "active",
+      "listed": true
+    },
+    {
+      "id": "model6",
+      "name": "MODEL 6",
+      "url": "https://model6.liyw.top",
+      "summary": "展示并持续更新六个 AI 电子产品与硬件创意。",
+      "launch_date": "2026-07-24",
+      "launch_estimated": false,
+      "launch_source": "Sites 首个成功发布记录 appgdep_6a63512ff1788191803063deda69703f",
+      "repository": "AI-Hardware-Model6",
+      "status": "active",
+      "listed": true
+    },
+    {
+      "id": "home",
+      "name": "一巍 · 网站与仓库",
+      "url": "https://home.liyw.top",
+      "summary": "统一浏览和维护网站与 GitHub 仓库。",
+      "launch_date": "2026-11-13",
+      "launch_estimated": false,
+      "launch_source": "Sites 首次成功发布记录 appgdep_6af6c76307588191b36c1561872a225a",
+      "repository": "Homepage",
+      "status": "active",
+      "listed": false
+    }
+  ]
+}
